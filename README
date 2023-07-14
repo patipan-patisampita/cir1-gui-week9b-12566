@@ -1,0 +1,13 @@
+1.birth:2013-2025
+- Gen:Alpha
+2.birth:1997-2012
+- Gen:Z
+3.birth:1981-1996
+- Gen:Y
+4.birth:1965-1980
+- Gen:X
+5.birth:1946-1964
+- Gen:Baby boomers
+6.birth:1928-1945
+- Gen:Silent
+7.Gen:error
